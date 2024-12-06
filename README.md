@@ -2,6 +2,11 @@
 
 Welcome to the Medical ChatBot repository! This project is designed to assist users in obtaining reliable medical information, provide symptom checks, and deliver personalized healthcare advice using natural language processing (NLP) techniques.
 
+![Screenshot Alt Text](![image](https://github.com/user-attachments/assets/c919fda7-c38c-4820-a2d6-dbc73a5ff6d6))
+
+
+
+
 ## Table of Contents
 
 Tech Stack
@@ -29,7 +34,7 @@ Database: SQLite (for storing user interactions and medical data)
 
 Frontend: HTML, CSS, JavaScript (for the chat interface)
 
-
+## Installation
 Clone the repository:
 
 git clone https://github.com/Nigoraa1/Medical-ChatBot.git
@@ -49,5 +54,25 @@ Run the application:
 
 python app.py
 
-Access the ChatBot:
-Open a browser and navigate to http://127.0.0.1:5000/.
+## Usage
+
+Enter your symptoms or medical queries in the chat interface.
+
+Receive immediate, relevant responses based on the chatbot’s trained data.
+
+Use responsibly as a supportive tool, not a substitute for professional medical advice.
+
+## Project Structure
+Medical-ChatBot/
+├── app.py              # Main application file
+├── templates/        # HTML templates for the interface
+├── static/           # CSS and JavaScript files
+├── data/             # Medical data and training datasets
+├── models/           # Pretrained models for NLP
+├── requirements.txt  # List of dependencies
+├── README.md         # Documentation
+
+Thank you for using Medical ChatBot! If you have any issues or feedback, feel free to open an issue in this repository.
+
+
+
