@@ -1,5 +1,6 @@
-# Medical ChatBot
-![Uploading image.png…]()
+# Medical ChatBot 
+
+ ![Uploading image.png…]()
 
 
 A conversational AI-driven chatbot designed to assist users with medical queries, provide information on symptoms, diseases, and treatments, and guide them toward seeking professional healthcare advice. This project leverages Natural Language Processing (NLP) techniques to ensure accurate and reliable responses.
