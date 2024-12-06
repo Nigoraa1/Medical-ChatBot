@@ -2,7 +2,7 @@
 
 Welcome to the Medical ChatBot repository! This project is designed to assist users in obtaining reliable medical information, provide symptom checks, and deliver personalized healthcare advice using natural language processing (NLP) techniques.
 
-![Screenshot Alt Text]((https://github.com/user-attachments/assets/c919fda7-c38c-4820-a2d6-dbc73a5ff6d6))
+![ChatBot Interface](![image](https://github.com/user-attachments/assets/d18b6cc3-473d-4669-badb-5a9699675125))
 
 
 
